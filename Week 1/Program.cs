@@ -11,6 +11,7 @@ namespace Week_1
         static void Main(string[] args)
         {
             // germany is cool
+            // france is also cool
         }
     }
 }

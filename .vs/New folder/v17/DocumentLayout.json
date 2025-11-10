@@ -1,0 +1,35 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abrah\\OneDrive\\Documents\\New folder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abrah\\OneDrive\\Documents\\New folder\\.vs\\Week 1\\v17\\.suo||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vs\\Week 1\\v17\\.suo||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".suo",
+              "DocumentMoniker": "C:\\Users\\abrah\\OneDrive\\Documents\\New folder\\.vs\\Week 1\\v17\\.suo",
+              "RelativeDocumentMoniker": ".vs\\Week 1\\v17\\.suo",
+              "ToolTip": "C:\\Users\\abrah\\OneDrive\\Documents\\New folder\\.vs\\Week 1\\v17\\.suo",
+              "RelativeToolTip": ".vs\\Week 1\\v17\\.suo",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAOKSURBVDhPlZNdTJtlFMd//XhLod2gjFXkpdvohAKGMlRQgyhdYpc0mUkT4wXRYCJGLrx2fkQHybikzCvDlRcmmkhM1ASYOkNiIOFrgQBrSaFkY7Rri8LK6vvSby8cL6XbXPwn5\u002BI8539\u002BOc9z8kCeurq63onH49n/GX94PJ63Acjlctp8IEA0GmVoaIhEIlFYOiKtVktDQwMOh6PZ7XZ3GwwG3QcqleohYCqVIhAI4HA4qKoSC8sAhEJBxsfH2dnZQaVSHWtvb29xOp2qwcHBxEPAA7W1vYi9yV54DMDS8hJjY2NEIhGmp6cByjs7O1t7e3sFdaG5ULIss7W1pUQsFjtSDwaDTE1NMTExcQzoeOyEB1pZWebql1eV/OLFN2hsbDziiUQieL1eAJ4IrKuzcemjS0p\u002B0mzGaDTSd7lPOZudnWU9sA6AcmWXy3Xc7XaXKq4HKi0txW5vxm5vZnf3HuFwmHg8js/n4/TpM9jtzYji4fLUAB0dHYaenp42l8v1Qj4MYD\u002BeYMsbZm3mFr55P9HQNslkklAoRDqdKrT/CxwYGGhwvHr\u002BPSkmv5mS05hMJgRBIJPKcNe/zcTX0/w48AtipoZnTzVhqa6mu/tdyspMhTzlyh/7Jtedv341qff/vsmV/ivYbHUE5jaZ/HYO/2SA3bsx5n9eZm32NoGNAF9c/pxoNFKAO1xKZWg1cnzpuk9dUlqMTq9Do1WzceMOe9v3ab7QwNJvqySkJOlEGrFKfOKEgry3ryky6DhzrprFa17mfloivvM3NS0Wml63IegFpSmRSPz3Gx5IrK/k5bdaiG78SdAbxlBWjK39LJW1ZrSCRvHF43Fu3lx55H8/AsykMiTlFGqNGrVWTTabI51Mk0lnyOVyis9qtfLpJ59RUXEyvx0KgauTAUb6xrA\u002Bf4rG12qJhe8z9d08gZnbpJLpfOtjdbAUudxiSlXZnhKM5SW80tWKVqdhdTLA2swtpn9YJCkllabNO5uMfD\u002Bi5MFgEJVaBXnA6zUt1SajqaRebywSrM9Z0AgaBL1ALgeL17zo9DpOPFPGCYsJjUaDwWhQgHW2OsxmMwAqgOHhYYvT6XzfbDZfkGW5yOfz7WezWURRFNSyrvzG6LK4vfEXZ1tP3at9ybpTXCHs\u002Bf3\u002BrEJ8lDwejyhJ0rmFhYV6o9GoBujv739akqQPJUnafRDfSJLkGh0dPRyvQP8A8wOcTbXjs6oAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-11-10T21:49:47.987Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
